@@ -4,6 +4,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+
 public class MessagingClient {
     public static void main(String[] args) throws Exception {
         if (args.length != 1) {
